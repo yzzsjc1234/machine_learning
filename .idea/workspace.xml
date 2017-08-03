@@ -15,13 +15,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="k_means_cluster.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="k_means_cluster.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Curriculum/Unsupervised learning/Clustering mini project/k_means/k_means_cluster.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="65" column="58" lean-forward="true" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+            <state relative-caret-position="324">
+              <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
               <folding>
                 <element signature="e#88#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinMaxScaler coding.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Curriculum/Unsupervised learning/Feasure scaling/MinMaxScaler coding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/Curriculum/Supervised learning/Regression/outliers/outlier_cleaner.py" />
         <option value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Clustering mini project/tools/feature_format.py" />
         <option value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Clustering mini project/k_means/k_means_cluster.py" />
+        <option value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Feasure scaling/MinMaxScaler coding.py" />
       </list>
     </option>
   </component>
@@ -199,10 +212,6 @@
               <option name="myItemId" value="Unsupervised learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Clustering mini project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -215,76 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Unsupervised learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Clustering mini project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="k_means" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Unsupervised learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Clustering mini project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="final_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Machine learning resource library" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,24 +312,7 @@
       <recent name="D:\py_workspace\machine_learning\Curriculum\Datasets and questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.k_means_cluster">
-    <configuration default="false" name="decisionTreesAccuracy2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curriculum/Supervised learning/Decision Trees/Decision trees accuracy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="machine_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curriculum/Supervised learning/Decision Trees/Decision trees accuracy/decisionTreesAccuracy2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.MinMaxScaler coding">
     <configuration default="false" name="studentCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -455,6 +377,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Clustering mini project/k_means/k_means_cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MinMaxScaler coding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Feasure scaling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine_learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curriculum/Unsupervised learning/Feasure scaling/MinMaxScaler coding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -607,19 +546,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.decisionTreesAccuracy2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.studentCode" />
-      <item index="2" class="java.lang.String" itemvalue="Python.outlier_removal_regression" />
-      <item index="3" class="java.lang.String" itemvalue="Python.outlier_cleaner" />
-      <item index="4" class="java.lang.String" itemvalue="Python.k_means_cluster" />
+      <item index="0" class="java.lang.String" itemvalue="Python.studentCode" />
+      <item index="1" class="java.lang.String" itemvalue="Python.outlier_removal_regression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.outlier_cleaner" />
+      <item index="3" class="java.lang.String" itemvalue="Python.k_means_cluster" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MinMaxScaler coding" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.k_means_cluster" />
-        <item index="1" class="java.lang.String" itemvalue="Python.outlier_removal_regression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.outlier_cleaner" />
-        <item index="3" class="java.lang.String" itemvalue="Python.studentCode" />
-        <item index="4" class="java.lang.String" itemvalue="Python.decisionTreesAccuracy2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MinMaxScaler coding" />
+        <item index="1" class="java.lang.String" itemvalue="Python.k_means_cluster" />
+        <item index="2" class="java.lang.String" itemvalue="Python.outlier_removal_regression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.outlier_cleaner" />
+        <item index="4" class="java.lang.String" itemvalue="Python.studentCode" />
       </list>
     </recent_temporary>
   </component>
@@ -677,13 +616,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Curriculum/Supervised learning/AdaBoost/class_vis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Curriculum/Supervised learning/k-nearest neighbors/your_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1021,10 +953,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Curriculum/Unsupervised learning/Clustering mini project/k_means/k_means_cluster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="65" column="58" lean-forward="true" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+        <state relative-caret-position="324">
+          <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
           <folding>
             <element signature="e#88#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Curriculum/Unsupervised learning/Feasure scaling/MinMaxScaler coding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
