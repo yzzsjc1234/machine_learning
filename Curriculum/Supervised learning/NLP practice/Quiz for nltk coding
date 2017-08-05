@@ -1,0 +1,6 @@
+from nltk.corpus import stopwords
+sw = stopwords.words("english")
+print(sw[0])
+print(len(sw))
+sw = stopwords.words("french")
+print(sw[1])

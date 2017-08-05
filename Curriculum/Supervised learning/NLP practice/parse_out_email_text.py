@@ -28,22 +28,25 @@ def parseOutText(f):
         text_string = content[1].translate(str.maketrans("", "",string.punctuation))
 
         ### project part 2: comment out the line below
-        words = text_string
+        #words = text_string
 
         ### split the text string into individual words, stem each word,
         ### and append the stemmed word to words (make sure there's a single
         ### space between each stemmed word)
+        text_list = text_string.strip().split()
+        stemmer = SnowballStemmer("english")
 
+        text_list0 = ""
+        for x in text_list:
+            text_list0 += stemmer.stem(x)+" "
 
-
-
-
+        words = text_list0[:len(text_list0)-1]
     return words
 
     
 
 def main():
-    ff = open("../text_learning/test_email.txt", "r")
+    ff = open("text_learning/test_email.txt", "r")
     text = parseOutText(ff)
     print (text)
 
